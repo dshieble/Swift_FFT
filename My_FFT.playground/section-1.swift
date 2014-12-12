@@ -1,5 +1,5 @@
 //My Implementation of the FFT in Swift
-//Not so fast recursive implementation
+//Its a not so fast recursive implementation
 
 import UIKit
 import Foundation
